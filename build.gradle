@@ -2,7 +2,8 @@ apply plugin: 'groovy'
 apply plugin: 'maven-publish'
 
 group = 'nl.eveoh'
-version = '1.4'
+version = '1.4.1'
+description = "Gradle plugin for AspectJ"
 
 repositories {
     maven {
